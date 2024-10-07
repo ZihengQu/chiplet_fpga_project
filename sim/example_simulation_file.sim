@@ -1,1 +1,7 @@
+# Simulation Files
 
+This folder contains simulation files used to verify the functionality of the chiplet architecture on FPGA.
+
+## Example Simulation Files:
+- `testbench.v`: Verilog testbench to test the design.
+- `chiplet_simulation.do`: ModelSim/QuestaSim script for running the simulation.
